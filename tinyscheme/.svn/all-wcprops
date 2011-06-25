@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svnroot/tinyscheme/!svn/ver/73/trunk
+END
+dynload.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/tinyscheme/!svn/ver/13/trunk/dynload.h
+END
+opdefines.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/tinyscheme/!svn/ver/66/trunk/opdefines.h
+END
+scheme-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/tinyscheme/!svn/ver/63/trunk/scheme-private.h
+END
+hack.txt
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svnroot/tinyscheme/!svn/ver/1/trunk/hack.txt
+END
+init.scm
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/tinyscheme/!svn/ver/70/trunk/init.scm
+END
+scheme.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/tinyscheme/!svn/ver/73/trunk/scheme.c
+END
+CHANGES
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svnroot/tinyscheme/!svn/ver/68/trunk/CHANGES
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svnroot/tinyscheme/!svn/ver/15/trunk/COPYING
+END
+scheme.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/tinyscheme/!svn/ver/67/trunk/scheme.h
+END
+Manual.txt
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/tinyscheme/!svn/ver/68/trunk/Manual.txt
+END
+dynload.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/tinyscheme/!svn/ver/56/trunk/dynload.c
+END
+BUILDING
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/tinyscheme/!svn/ver/17/trunk/BUILDING
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/tinyscheme/!svn/ver/24/trunk/makefile
+END
+MiniSCHEMETribute.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/tinyscheme/!svn/ver/15/trunk/MiniSCHEMETribute.txt
+END
